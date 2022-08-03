@@ -2,7 +2,6 @@
 /.idea
 /.pytest_cache
 /conf.py
-/exceptions.py
 /htmlcov
 /index.rst
 /make
@@ -10,8 +9,6 @@
 /Makefile
 /server.html
 /settings
-/test_server.py
-/test__client.py
 /_build
 /_static
 /_templates
